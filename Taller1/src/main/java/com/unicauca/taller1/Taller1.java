@@ -1,9 +1,12 @@
 package com.unicauca.taller1;
-
 import com.unicauca.taller1.domain.*;
-
 import java.util.ArrayList;
 import java.util.List;
+
+/*
+ Trabajo realizado por: Oscar Mauricio Solarte Rosales, Angela Marcela Mendez Astudillo
+
+*/
 
 public class Taller1 {
 
