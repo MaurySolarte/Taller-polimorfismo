@@ -14,7 +14,7 @@ public class Taller1 {
         Figure fig2 = new Circle(2.3);
         Figure fig3 = new Square(10);
         Figure fig4 = new Square(2.1);
-        Figure fig5 = new Triangle(2, 3, 2, 2);        
+        Figure fig5 = new Triangle(2, 3, 2, 1);        
         
         
         
